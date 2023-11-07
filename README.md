@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hemant Somanna.
 - 👀 I’m interested in learning to code and contribute to projects.
-- 🌱 I’m currently learning Java.
-- 📫 How to reach me @hemantsomanna(Twitter)
+- 🌱 I’m currently learning C++.
+- 📫 How to reach me @hemantsomanna(Instagram)
 
 <!---
 hemantsomanna/hemantsomanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
